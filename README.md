@@ -1,6 +1,6 @@
 # Erin Wu — Personal Portfolio
 
-A minimal English portfolio for GitHub Pages, based on Erin's CV (10).
+A minimal English portfolio for GitHub Pages, based on Erin's CV.
 
 ## Publish
 
